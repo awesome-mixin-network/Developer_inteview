@@ -2,7 +2,7 @@
 
 Many developers have build application on Mixin Network. We will interview these awesome developers.
 
-The github address of this developer is [github.com/an-lee](https://github.com/github.com/an-lee)
+The github address of this developer is [github.com/an-lee](https://github.com/an-lee)
 
 
 ## Interview
