@@ -1,4 +1,4 @@
-# Mixin Network application developer interviews
+# Mixin Network 应用开发者系列访谈
 
 1. [李安](https://github.com/awesome-mixin-network/Developer_inteview/blob/master/developer_interview_li_an_cn.md)
 2. [李大狗](https://github.com/awesome-mixin-network/Developer_inteview/blob/master/developer_interview_li_dagou_cn.md)
