@@ -25,7 +25,7 @@ rmbp 2018, HHKB Pro 2
 
 > How did you know Mixin Network? from which channel?
 
-My friend give me one Ethereum and encourage me to install Mixin Messeneger. The mixin messenger is impressive  because cryptocurrency is confirmed instantly and free.
+My friend give me one Ethereum token and encourage me to install Mixin Messeneger. The mixin messenger is impressive  because cryptocurrency is confirmed instantly and free.
 
 > Why you wanted to develop this project?
 
