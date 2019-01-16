@@ -1,5 +1,5 @@
 
-## Ivan Fedorov: 无法用我们的已知来想象未来，未来是不一样的
+## Ivan Fedorov: 用已知无法想象未来
 
 很多开发者使用Mixin Network开发了各种应用。我们持续的在采访他们。今天访问的这位开发者的GitHub账号是[github.com/if1242](https://github.com/if1242)。
 
