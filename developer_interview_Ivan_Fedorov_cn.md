@@ -1,8 +1,7 @@
 
 ## Ivan Fedorov: 用已知无法想象未来
 
-很多开发者使用Mixin Network开发了各种应用。我们持续的在采访他们。今天访问的这位开发者的GitHub账号是[github.com/if1242](https://github.com/if1242)。
-
+很多开发者使用Mixin Network开发了各种应用。我们持续的在采访他们。今天访问的这位开发者的GitHub账号是[if1242](https://github.com/if1242)。他开发了[Mixinkeys](http://mixinkeys.ibisolutions.ru/) 并且在[Mixin开发者大赛](http://www.mixin.community/)。
 
 
 ## 正文
