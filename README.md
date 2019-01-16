@@ -6,7 +6,7 @@ Mixin application developer inteview
 
 |Developer|English content| Medium link|
 |--|--|--| 
-|[an-lee](https://github.com/an-lee)|[Li An](https://github.com/awesome-mixin-network/Developer_inteview/blob/master/developer_interview_li_an_en.md)|--|
+|[an-lee](https://github.com/an-lee)|[Li An](https://github.com/awesome-mixin-network/Developer_inteview/blob/master/developer_interview_li_an_en.md)|https://medium.com/mixinnetwork/mixin-network-developer-interview-series-ang-lee-from-structural-engineers-to-ruby-programmer-e1cccf444da7|
 |[albertschr](https://github.com/albertschr)|[albertschr](https://github.com/awesome-mixin-network/Developer_inteview/blob/master/developer_interview_li_dagou_en.md)|--|
 |[includeleec](https://github.com/includeleec)|[乌云](https://github.com/awesome-mixin-network/Developer_inteview/blob/master/developer_interview_wuyun_en.md)|--|
 |[wangshiju](https://github.com/wangshijun)|[wangshijun](https://github.com/awesome-mixin-network/Developer_inteview/blob/master/developer_interview_wang_shijun_en.md)|--|
