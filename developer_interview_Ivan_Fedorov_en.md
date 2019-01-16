@@ -2,7 +2,7 @@
 
 Many developers have build application on Mixin Network. We will interview these awesome developers.
 
-The github address of this developer is [github.com/if1242](https://github.com/if1242). He created [Mixinkeys](http://mixinkeys.ibisolutions.ru/) and win excellent prize.
+The github address of this developer is [github.com/if1242](https://github.com/if1242). He created [Mixinkeys](http://mixinkeys.ibisolutions.ru/) and win excellent prize in [Mixin Network online competition](http://www.mixin.community/)
 
 
 ## Interview
