@@ -1,6 +1,6 @@
-Many developers have build application on Mixin Network. We will interview these awesome developers.
+Many developers have build application on Mixin Network.
 
-The github address of this developer is [github.com/soon](https://github.com/soooooooon)
+The github address of this developer is [soon](https://github.com/soooooooon)
 
 
 ## Interview
