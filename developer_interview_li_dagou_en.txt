@@ -1,0 +1,43 @@
+Mixin Network has an active developer community, and we continue to interview these developers about their developing stories, hoping that their stories are helpful to others. This interviewee 's GitHub address is https://github.com/albertschr. 
+
+Mixing: Can you introduce yourself? 
+
+Li Dagou, the little prince of the blockchain, currently lives in Beijing, the present technology stack: Elixir / Javascript / Golang / Python and so on. Personal WeChat account is 197626581, the official account on WeChat is AhaSmarter, welcome to add me or subscribe to my channel to communicate:). 
+
+Mixin: When did you start learning the program? 
+
+In 1996, I used the Logo Little Turtle and the Basic language. But after a long hiatus, I restart programming in 2016 and in 2017, I reinvented programming knowledge systematically. 
+
+Mixin: What programming software do you usually use? For example IDE, debugger？ 
+
+Visual Studio Code / iTerm2 / zsh / various Terminal tools / Game Maker Studio 2. 
+
+Mixin: What hardware do you use on a daily basis? 
+
+MacPro notebook / MSI notebook / Raspberry Pi. 
+
+Mixin: When and where did you find out about Mixin Network? 
+Early in the year laughter came to speak. 
+
+What prompted you to take the time to write this work? 
+Through the development of blockchain application, on the one hand, to construct their own programming system, on the other hand, in-depth understanding of blockchain. 
+
+Mixin: When did you begin to learn and use the current language to write an app on mixin network? 
+In mid-2017. 
+
+Mixin: What is the special feeling in the process of writing this work? 
+Mixin Network is a good blockchain system, and it's friendly to developers, but Mixin Messenger is just an experiment? 
+
+Mixin: What do you get from doing this app, do you have any income? 
+
+Feng Xiaodong sent me 6 XIN token.
+ 
+Mixin: What advice is there for mixin network? 
+
+I hope that more and more key products could come out, after all, there's the only operating system exists, without powerful software, it's a fool's errand. 
+
+Mixin: What do you think about the future application scenarios of digital assets? 
+The prospects are endless and now, it's just beginning. Many of the viewpoints that people are currently proposing will be falsified, and the things sound rather contrived will become reality. 
+
+Mixin: What languages, tools, and books would you recommend to other app developers? 
+Haha, there is a big difference between books and tools in different technology stacks. However, I suggest everyone read Ray Dario's "Principles"---- development and practice are like the tip of the iceberg, What really matters is the part that's not out of the water. And the book "Principles" is an important part of what is not out of the water, that is, the priority among priorities.
