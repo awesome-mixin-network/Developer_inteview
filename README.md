@@ -10,4 +10,4 @@ Mixin application developer inteview
 |[albertschr](https://github.com/albertschr)|[albertschr](https://github.com/awesome-mixin-network/Developer_inteview/blob/master/developer_interview_li_dagou_en.md)|--|
 |[includeleec](https://github.com/includeleec)|[乌云](https://github.com/awesome-mixin-network/Developer_inteview/blob/master/developer_interview_wuyun_en.md)|--|
 |[wangshiju](https://github.com/wangshijun)|[wangshijun](https://github.com/awesome-mixin-network/Developer_inteview/blob/master/developer_interview_wang_shijun_en.md)|--|
-|[soooooooon](https://github.com/soooooooon)|[Soon](https://github.com/awesome-mixin-network/Developer_inteview/blob/master/developer_interview_soon_en.md)|--|
+|[soooooooon](https://github.com/soooooooon)|[Soon](https://github.com/awesome-mixin-network/Developer_inteview/blob/master/developer_interview_soon_en.md)|https://medium.com/mixinnetwork/break-boundary-by-teaching-myself-e0be4930fb99|
