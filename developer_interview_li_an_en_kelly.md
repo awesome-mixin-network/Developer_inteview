@@ -1,4 +1,4 @@
-Mixin Network has an active developer community, and we continue to interview these developers about their developing stories, hoping that their stories are helpful to others. This interviewee 's GitHub address is http://github.com/an-lee. 
+Mixin Network has an active developer community, and we invite these developers to talk about their developing stories. This interviewee 's GitHub address is http://github.com/an-lee. 
 
 Mixin: Could you introduce yourself? 
 My name is An LI. Civil engineering background, I worked as a structural engineer in the architectural design institute for 5 years. I started studying Ruby last year (2017), a while after, I was switching my career to a programmer and joined an Internet startup. During my spare time, I'd like to create some personal projects., and the most recent one is PRSDigg.com.
